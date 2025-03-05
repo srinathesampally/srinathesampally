@@ -1,4 +1,3 @@
-
 # Hi there! 👋 I'm Srinath Esampally
 
 🎓 **Recent Computer Science Graduate** from Sree Chaitanya Institute of Technological Sciences.  
@@ -7,11 +6,18 @@
 
 ---
 
+## 🔥 GitHub Stats  
+![Srinath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinathesampally&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinathesampally&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=srinathesampally&theme=radical)  
+
+---
+
 ## 🔧 Skills & Technologies  
-- **Programming Languages:** Python, SQL  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools & Technologies:** Git, GitHub, VS Code  
-- **Areas of Interest:** Cloud Computing, Data Analytics, Trust & Safety  
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange?style=flat&logo=sqlite)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-lightgrey?style=flat&logo=googlecloud)
 
 ---
 
@@ -28,9 +34,17 @@
 
 ---
 
+## 🐍 Contribution Graph  
+![Snake animation](https://github.com/srinathesampally/srinathesampally/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📬 Connect With Me  
-[LinkedIn](http://linkedin.com/in/srinath-esampally) | [GitHub](https://github.com/srinathesampally)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](http://linkedin.com/in/srinath-esampally)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/srinathesampally)  
 
 ---
 
 Thanks for visiting! 🚀
+
+
